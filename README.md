@@ -30,12 +30,6 @@ I started and finished this project in May 2023.
 - Get a random meme from the array
 - Add top text and bottom text
 
-## Links
-
-[Live Demo](https://brightneon7631.github.io/scrimba-meme-generator/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
-
 ## Screenshots
 
 ### Desktop
